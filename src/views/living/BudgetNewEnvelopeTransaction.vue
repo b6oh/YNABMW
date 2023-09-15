@@ -54,8 +54,6 @@ const saveTransaction = async (type) => {
     formStatus.value = 'You don\'t have that money'
     return
   }
-  balanceMain.value -= amountC
-
 
   db.envelopes
       .update(parseInt(route.params.id.toString()), {
