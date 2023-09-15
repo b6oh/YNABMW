@@ -1,0 +1,130 @@
+[
+  {
+    "name": "Sun",
+    "num": 1
+  },
+  {
+    "name": "Puzzle piece",
+    "num": 2
+  },
+  {
+    "name": "Hand raised",
+    "num": 3
+  },
+  {
+    "name": "Battery 100%",
+    "num": 4
+  },
+  {
+    "name": "Battery 0%",
+    "num": 5
+  },
+  {
+    "name": "Bell",
+    "num": 6
+  },
+  {
+    "name": "Bolt",
+    "num": 7
+  },
+  {
+    "name": "Book open",
+    "num": 8
+  },
+  {
+    "name": "Cake",
+    "num": 9
+  },
+  {
+    "name": "Calculator",
+    "num": 10
+  },
+  {
+    "name": "Clock",
+    "num": 11
+  },
+  {
+    "name": "Cloud",
+    "num": 12
+  },
+  {
+    "name": "Computer",
+    "num": 13
+  },
+  {
+    "name": "Face frown",
+    "num": 14
+  },
+  {
+    "name": "Face smile",
+    "num": 15
+  },
+  {
+    "name": "Film",
+    "num": 16
+  },
+  {
+    "name": "Flag",
+    "num": 17
+  },
+  {
+    "name": "Home",
+    "num": 18
+  },
+  {
+    "name": "Heart",
+    "num": 19
+  },
+  {
+    "name": "Key",
+    "num": 20
+  },
+  {
+    "name": "Light bulb",
+    "num": 21
+  },
+  {
+    "name": "Lock closed",
+    "num": 22
+  },
+  {
+    "name": "Map",
+    "num": 23
+  },
+  {
+    "name": "Musical note",
+    "num": 24
+  },
+  {
+    "name": "Newspaper",
+    "num": 25
+  },
+  {
+    "name": "Paint brush",
+    "num": 26
+  },
+  {
+    "name": "Paper clip",
+    "num": 27
+  },
+  {
+    "name": "Pencil",
+    "num": 28
+  },
+  {
+    "name": "Printer",
+    "num": 29
+  },
+  {
+    "name": "Shopping bag",
+    "num": 30
+  },
+  {
+    "name": "TV",
+    "num": 31
+  },
+  {
+    "name": "Truck",
+    "num": 32
+  }
+]
